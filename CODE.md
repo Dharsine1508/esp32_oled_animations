@@ -169,5 +169,3 @@ python lyrics_to_gif.py lyrics.txt song.gif --image art.png
 
 If the sketch is too large to upload, choose a larger option under **Tools → Partition Scheme** in Arduino IDE.
 
-## Credits
-The `playGIF()` display approach comes from the base sketch by [GSNCREATIONS](https://www.youtube.com/@GSNcreation07). The Python tools and song adaptations are my own work.

@@ -11,9 +11,10 @@ Demo videos are in this repo (see the `WhatsApp Video ...` files), and on Linked
 | Folder | Song | Language |
 |---|---|---|
 | `radhima/` | Radhima | Tamil |
-| `rathinamo/` | <song name> | Tamil |
-| `rathinamoo/` | <song name> | Tamil |
-| `song/` | <song name> | English |
+| `rathinamo/` | Rathinamo | Tamil |
+| `rathinamoo/` | Rathinamo | Tamil |
+| `song/` | Animation We Don't Talk anymore | English |
+| `Attention_ESP32` | Attention | English |
 
 ## Hardware
 - ESP32 DevKit

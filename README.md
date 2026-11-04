@@ -5,7 +5,7 @@ Tamil and English song lyric animations on a 0.96" SSD1306 OLED, driven by an ES
 A Python tool (Pillow) converts any GIF or lyrics text file into the Arduino code, so a new song takes minutes to add.
 
 ## Demo
-Demo videos are in this repo (see the `WhatsApp Video ...` files), and on LinkedIn: <your LinkedIn post link>
+Demo videos are in this repo (see the `WhatsApp Video ...` files), and on LinkedIn: <linkedin.com/in/dharsine>
 
 ## Songs
 | Folder | Song | Language |
@@ -63,6 +63,3 @@ Options: `--threshold`, `--dither`, `--invert`, `--step`, `--delay`.
 - [ ] Button to switch songs
 - [ ] Sync the animation with audio
 
-## Credits
-- Base display sketch adapted from [GSNCREATIONS](https://www.youtube.com/@GSNcreation07).
-- Song lyrics and music belong to their respective owners. This project is for learning and personal, non-commercial use.

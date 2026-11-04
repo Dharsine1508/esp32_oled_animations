@@ -51,6 +51,7 @@ Options: `--threshold`, `--dither`, `--invert`, `--step`, `--delay`.
 - GIF frames are resized to 128×64 and converted to 1-bit.
 - Each frame is packed into 1024 bytes and stored in flash with `PROGMEM`, so the ESP32's RAM stays free.
 - One `playGIF()` function plays any song through the `Adafruit_SSD1306` library over I2C.
+- Full explanation: [Code walkthrough](CODE.md)
 
 ## What I learned
 - Getting started with the ESP32 and Arduino IDE (boards, ports, flashing)
